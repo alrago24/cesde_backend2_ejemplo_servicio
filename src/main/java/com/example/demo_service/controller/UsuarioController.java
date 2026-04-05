@@ -32,7 +32,7 @@ public class UsuarioController {
     }
 
     /**
-     * Endpoint para crear un usuario. 
+     * Endpoint para crear un usuario.
      * El servicio aplicará las validaciones de negocio.
      */
     @PostMapping

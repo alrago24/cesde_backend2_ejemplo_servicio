@@ -29,6 +29,6 @@ public class Usuario {
     @Column(nullable = false)
     private Integer edad;
 
-    // Los estudiantes deben notar que gracias a Lombok (@Getter @Setter), 
+    // Los estudiantes deben notar que gracias a Lombok (@Getter @Setter),
     // no necesitamos escribir explícitamente los métodos getNombre(), setNombre(), etc.
 }

@@ -58,7 +58,7 @@ Si intentas crear un usuario con un email que ya existe en la base de datos.
 ---
 
 ## 4. Buscar Usuario por ID
-**Método:** `GET`  
+**Método:** `GET`
 **Endpoint:** `/api/usuarios/{id}`
 
 ### Ejemplo (curl):
